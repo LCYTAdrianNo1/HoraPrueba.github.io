@@ -1,0 +1,14 @@
+#time-container {
+    width: 200px;
+    margin: 0 auto;
+    text-align: center;
+    padding: 20px;
+    background-color: #f7f7f7;
+    border-radius: 10px;
+}
+
+#time {
+    font-size: 36px;
+    color: #333;
+    margin: 0;
+}
